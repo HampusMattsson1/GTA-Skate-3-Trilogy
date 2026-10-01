@@ -1,7 +1,9 @@
 # Vice-City-Skate
 Thanks to ReVC (https://github.com/mrxenginner/reVC) for making this possible. This was made using their Vice City Rewrite and the popular Skate 3 Rust Rewrite to put the two games into one. Enjoy!
 
+If you get this error: <img width="861" height="318" alt="vcerror" src="https://github.com/user-attachments/assets/bb3c122b-5f66-4058-95d6-32d1ba7218b7" />
 
+Try to replace the setup.ps1 file in /Files/Setup folder with the new setup.ps1 file located in the "Bugfix" folder. Thank you to Grim for making this fix.
 
 <img width="1020" height="547" alt="vc car crash" src="https://github.com/user-attachments/assets/91f7c14a-6fda-414a-bef8-18081cf4be2d" />
 
