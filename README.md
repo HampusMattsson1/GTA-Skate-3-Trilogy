@@ -9,8 +9,6 @@ Try to replace the setup.ps1 file in /Files/Setup folder with the new setup.ps1 
 
 <img width="915" height="511" alt="gta32" src="https://github.com/user-attachments/assets/fd74733e-ebbc-475e-aebb-ad1a73d2665b" />
 
-<img width="918" height="502" alt="vc cruise" src="https://github.com/user-attachments/assets/b8a393e1-6a1c-4639-82e1-f9ff0fc1e1a3" />
-
 <img width="990" height="511" alt="vc trick" src="https://github.com/user-attachments/assets/d5813c12-2abb-463b-b6f2-5266c67974cd" />
 
 <img width="1005" height="589" alt="vc board throw" src="https://github.com/user-attachments/assets/743faad8-84f0-4a21-b587-3bc22db2aaf2" />
