@@ -1,5 +1,5 @@
 # GTA3 VICE CITY (SA SOON)
-Thanks to ReVC (https://github.com/mrxenginner/reVC) for making this possible. This was made using their Vice City Rewrite and the popular Skate 3 Rust Rewrite to put the two games into one. Enjoy!
+Thanks to ReVC (https://github.com/mrxenginner/reVC) and Re3 (https://github.com/Cai1Hsu/re3) for making this possible. This was made using their Vice City Rewrite and the popular Skate 3 Rust Rewrite to put the two games into one. Enjoy!
 
 If you get this error: <img width="861" height="318" alt="vcerror" src="https://github.com/user-attachments/assets/bb3c122b-5f66-4058-95d6-32d1ba7218b7" />
 
